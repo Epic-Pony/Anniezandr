@@ -3,7 +3,7 @@
 Now I'm  a web frontend developer.
 
 
-掘金: [乐观的逍遥子](https://juejin.im/user/1151943917713623) / 知乎: [](https://www.zhihu.com/people/zhang-zhen-36-44)
+掘金: [乐观的逍遥子](https://juejin.im/user/1151943917713623) / 知乎: [Pony zhang](https://www.zhihu.com/people/zhang-zhen-36-44)
 
 **languages and Tools**
 
