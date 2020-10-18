@@ -14,4 +14,4 @@ Now I'm  a web frontend developer.
 
 [![Anniezandr's github stats](https://github-readme-stats.vercel.app/api?username=Anniezandr)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anniezandr Repo](https://github-readme-stats.vercel.app/api/pin/?username=Anniezandr&repo=Arc&show_owner=true)](https://github.com/Anniezandr)
+[![Anniezandr Repo](https://github-readme-stats.vercel.app/api/pin/?username=Anniezandr)](https://github.com/Anniezandr)
